@@ -21,7 +21,7 @@ for essen in automat:
 		break
 else: 
 	print "ERROR! Dieses Produkt gibt es nicht."
-	
+
 anf = 0
 while anf <= automat[essen]:
 	einwerf = input("Bitte Muenzen einwerfen: ")
